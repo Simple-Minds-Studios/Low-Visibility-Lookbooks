@@ -8,7 +8,7 @@ This repository collects visual lookbooks and related presentation experiments w
 
 ## Live Project
 
-[View the Low Visibility Lookbooks](https://bartron773.github.io/Low-Visibility-Lookbooks/)
+[View the Low Visibility Lookbooks](https://simple-minds-studios.github.io/Low-Visibility-Lookbooks/)
 
 ## Scope
 

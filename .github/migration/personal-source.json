@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/Low-Visibility-Lookbooks",
+  "source_default_sha": "83f766cf7ff41b95980b02575cd4fab318a3eedc",
+  "organization_sha_before_audit": "0a92d12bd6a84b04f63080686c9c3cf321ca8baa",
+  "common_ancestor": "83f766cf7ff41b95980b02575cd4fab318a3eedc",
+  "source_description": "LOW VISIBILITY\u2122 is a conceptual fashion and visual design project exploring minimalism, architecture, and cinematic storytelling through digital lookbooks. Built with HTML, CSS, and JavaScript, this repository showcases the Spring/Summer 2027\u20132028 collection.",
+  "source_homepage": "https://bartron773.github.io/Low-Visibility-Lookbooks/",
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "83f766cf7ff41b95980b02575cd4fab318a3eedc",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}
